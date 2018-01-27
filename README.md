@@ -7,7 +7,7 @@ Para utilizar la clase, debe incluir el archivo PHP y obtener la instancia de la
 ``` PHP
 <?php
 // Include class
-require_once 'core/festivos.php';
+require_once 'festivos.php';
 
 // get the class instance (singleton pattern)
 $holidayCalculator = Holiday::getInstance();
