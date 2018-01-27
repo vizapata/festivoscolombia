@@ -1,7 +1,7 @@
 # Festivos Colombia
 Clase en PHP que permite calcular los días festivos en Colombia
 
-# Uso
+## Uso
 Para utilizar la clase, debe incluir el archivo PHP y obtener la instancia de la clase para hacer el cálculo de la siguiente manera:
 
 ``` PHP
